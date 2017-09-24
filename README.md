@@ -1,4 +1,4 @@
-# ShoppingListMobileApplication
+# Shopping List MobileApplication - Hybrid Mobile Application
 Ionic 3 shopping list application with full CRUD functionality using firebase2. <br>
 
 <h3>Features</h3>
