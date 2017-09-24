@@ -30,7 +30,37 @@ Ionic 3 shopping list application with full CRUD functionality using firebase2. 
 <h4>If you select Delete option from action sheet, database is also updated</h4>
 <img src="https://github.com/patilankita79/ShoppingListMobileApplication/blob/master/Screenshots/11_ItemDeleted.png" />
 
+<hr>
+<h3>Installation: </h3>
+<blockquote>$npm install</blockquote>
 
+<h3>Serve the application to browser: </h3>
+<blockquote>$ionic serve</blockquote>
+
+
+<h3>To view application in mobile simulated platforms</h3>
+<blockquote>$ionic serve --l</blockquote>
+OR
+<blockquote>$ionic lab</blockquote>
+
+<h3>Adding platforms </h3>
+
+<i>To add android platform</i><br/>
+<blockquote>$ionic cordova platform add android</blockquote>
+<br/>
+<i>To add iOS platform</i><br/>
+<blockquote>$ionic cordova platform add ios</blockquote>
+<h3>Build an android apk</h3>
+<blockquote>$ionic cordova build android</blockquote>
+<hr> 
+While building an APK you might yet an error => <strong>Module not found: Error: Can't resolve 'promise-polyfill' </strong><br>
+Refer this issue => https://github.com/ionic-team/ionic-app-scripts/issues/1001
+
+<b>Solution: </b>
+<blockquote>npm install promise-polyfill --save-exact</blockquote>
+
+and then run the command
+<blockquote>ionic cordova build android</blockquote>
 
 
 
