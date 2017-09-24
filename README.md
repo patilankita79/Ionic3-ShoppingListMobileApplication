@@ -31,6 +31,16 @@ Ionic 3 shopping list application with full CRUD functionality using firebase2. 
 <img src="https://github.com/patilankita79/ShoppingListMobileApplication/blob/master/Screenshots/11_ItemDeleted.png" />
 
 <hr>
+<h3>Adding a background image to a page in Ionic 3+ </h3>
+<li>In <strong>assets</strong> folder, create a folder named <strong>img</strong></li>
+<li>Store the image in <strong>img</strong> folder</li>
+<li>Go to app/app.scss and add the following code</li>
+ion-content {
+    background-image: url('/assets/img/NAME_OF_THE_IMAGE_FILE.jpg');
+}
+Reference link: https://stackoverflow.com/questions/38566022/ionic-2-adding-a-background-image-to-a-page
+<hr>
+
 <h3>Installation: </h3>
 <blockquote>$npm install</blockquote>
 
@@ -62,6 +72,16 @@ In the project directory run the following command,
 
 and then run the command
 <blockquote>$ionic cordova build android</blockquote>
+
+<hr>
+<h2>I encountered the following issue while doing this project </h2>
+<h4>Issue 1: Ionic serve error Cannot read property 'call' of undefined</h4>
+I encountered this problem when executing command $ionic serve, everytime I changed few things in my code.<br>
+<strong>Solution: </strong> The only solution is re-executing the command $ionic serve <br>
+Reference link: https://forum.ionicframework.com/t/ionic-serve-error-cannot-read-property-call-of-undefined/97858/9
+<br>
+
+
 
 
 
