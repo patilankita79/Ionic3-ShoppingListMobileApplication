@@ -10,7 +10,7 @@ Ionic 3 shopping list application with full CRUD functionality using firebase2. 
 <hr>
 <h2>Screenshots</h2>
 <h4>Firebase Database Rules: <br>Change the defaault firebase database rules in order to allow anybody to read and write from the database</h4>
-<img src="https://github.com/patilankita79/ShoppingListMobileApplication/blob/master/Screenshots/5_FirebaseDatabase.png" />
+<img src="https://github.com/patilankita79/ShoppingListMobileApplication/blob/master/Screenshots/12_DBRules.png" />
 <h4>Firebase Database table</h4>
 <img src="https://github.com/patilankita79/ShoppingListMobileApplication/blob/master/Screenshots/5_FirebaseDatabase.png" />
 <h4>Shopping List</h4>
