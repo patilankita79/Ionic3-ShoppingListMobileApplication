@@ -35,12 +35,10 @@ Ionic 3 shopping list application with full CRUD functionality using firebase2. 
 <li>In <strong>assets</strong> folder, create a folder named <strong>img</strong></li>
 <li>Store the image in <strong>img</strong> folder</li>
 <li>Go to app/app.scss and add the following code</li>
-ion-content {
-    background-image: url('/assets/img/background.jpeg');
-}
-ion-content {
+`ion-content {
     background-image: url('/assets/img/NAME_OF_THE_IMAGE_FILE.jpg');
-}
+}`
+
 <br>
 Reference link: https://stackoverflow.com/questions/38566022/ionic-2-adding-a-background-image-to-a-page
 <hr>
