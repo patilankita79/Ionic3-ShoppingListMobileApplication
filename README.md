@@ -15,9 +15,6 @@ Ionic 3 shopping list application with full CRUD functionality using firebase2. 
 <img src="https://github.com/patilankita79/ShoppingListMobileApplication/blob/master/Screenshots/5_FirebaseDatabase.png" />
 <h4>Shopping List</h4>
 <img src="https://github.com/patilankita79/ShoppingListMobileApplication/blob/master/Screenshots/1_ShoppingList.png" />
-<h4>Firebase Database entries </h4>
-<img src="https://github.com/patilankita79/ShoppingListMobileApplication/blob/master/Screenshots/1.2_DB.png" />
-<h4>Add Item to shopping list</h4>
 <img src="https://github.com/patilankita79/ShoppingListMobileApplication/blob/master/Screenshots/2_AddItem.png" />
 <img src="https://github.com/patilankita79/ShoppingListMobileApplication/blob/master/Screenshots/3_AddItem.png" />
 <img src="https://github.com/patilankita79/ShoppingListMobileApplication/blob/master/Screenshots/4_ItemAdded.png" />
