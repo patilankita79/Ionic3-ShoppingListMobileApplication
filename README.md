@@ -35,6 +35,7 @@ Ionic 3 shopping list application with full CRUD functionality using firebase2. 
 <li>In <strong>assets</strong> folder, create a folder named <strong>img</strong></li>
 <li>Store the image in <strong>img</strong> folder</li>
 <li>Go to app/app.scss and add the following code</li>
+
 ```
 ion-content {
     background-image: url('/assets/img/NAME_OF_THE_IMAGE_FILE.jpg');
