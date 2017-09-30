@@ -48,6 +48,10 @@ Reference link: https://stackoverflow.com/questions/38566022/ionic-2-adding-a-ba
 
 <h3>Installation: </h3>
 <blockquote>$npm install</blockquote>
+<br>
+<b>AngularFire2</b> is an official Angular library for Firebase. <br/><br/>
+To install AngularFire 2
+<blockquote>$npm install angularfire2 firebase --save</blockquote>
 
 <h3>Serve the application to browser: </h3>
 <blockquote>$ionic serve</blockquote>
